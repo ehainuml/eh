@@ -5,4 +5,4 @@
 
 # Tabluea Prep
 - new tool tabluea
-- trifecta
+- trifect
