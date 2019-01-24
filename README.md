@@ -6,3 +6,6 @@
 ## section 2: some tools
 - weka
 - rapid miner
+## section 3: use cases
+- Customer Segmentation
+- Customer stuff
